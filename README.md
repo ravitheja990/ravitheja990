@@ -72,5 +72,5 @@ Databases
 
 Connect with me
 
-![Custom badge](https://img.shields.io/badge/LinkedIn-Profile-blue)(https://www.linkedin.com/in/travitheja/)
+[![Custom badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/travitheja/)
 
