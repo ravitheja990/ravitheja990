@@ -32,40 +32,40 @@ Code
 
 Frameworks
 
-![Custom badge](https://img.shields.io/badge/Frameworks-Spring-Red)
-![Custom badge](https://img.shields.io/badge/Frameworks-Play-Red)
-![Custom badge](https://img.shields.io/badge/Frameworks-Flask-Red)
-![Custom badge](https://img.shields.io/badge/Frameworks-Angular-Red)
-![Custom badge](https://img.shields.io/badge/Frameworks-React-Red)
+![Custom badge](https://img.shields.io/badge/Frameworks-Spring-blue)
+![Custom badge](https://img.shields.io/badge/Frameworks-Play-blue)
+![Custom badge](https://img.shields.io/badge/Frameworks-Flask-blue)
+![Custom badge](https://img.shields.io/badge/Frameworks-Angular-blue)
+![Custom badge](https://img.shields.io/badge/Frameworks-React-blue)
 
 Big Data
 
-![Custom badge](https://img.shields.io/badge/Big_Data-Apache_Storm-Red)
-![Custom badge](https://img.shields.io/badge/Big_Data-Apache_Kafka-Red)
-![Custom badge](https://img.shields.io/badge/Big_Data-Elastic_Search-Red)
-![Custom badge](https://img.shields.io/badge/Big_Data-Kibana-Red)
+![Custom badge](https://img.shields.io/badge/Big_Data-Apache_Storm-red)
+![Custom badge](https://img.shields.io/badge/Big_Data-Apache_Kafka-red)
+![Custom badge](https://img.shields.io/badge/Big_Data-Elastic_Search-red)
+![Custom badge](https://img.shields.io/badge/Big_Data-Kibana-red)
 
 Virtualization
 
-![Custom badge](https://img.shields.io/badge/Virtualization-Docker-Red)
-![Custom badge](https://img.shields.io/badge/Virtualization-Kubernetes-Red)
+![Custom badge](https://img.shields.io/badge/Virtualization-Docker-purple)
+![Custom badge](https://img.shields.io/badge/Virtualization-Kubernetes-purple)
 
 Deployment
 
-![Custom badge](https://img.shields.io/badge/Deployment-Jenkins-Red)
-![Custom badge](https://img.shields.io/badge/Deployment-Argo-Red)
-![Custom badge](https://img.shields.io/badge/Deployment-AWS-Red)
+![Custom badge](https://img.shields.io/badge/Deployment-Jenkins-pink)
+![Custom badge](https://img.shields.io/badge/Deployment-Argo-pink)
+![Custom badge](https://img.shields.io/badge/Deployment-AWS-pink)
 
 Version Control
 
-![Custom badge](https://img.shields.io/badge/Version_Control-Git-Red)
-![Custom badge](https://img.shields.io/badge/Version_Control-Github-Red)
-![Custom badge](https://img.shields.io/badge/Version_Control-Bit_Bucket-Red)
-![Custom badge](https://img.shields.io/badge/Version_Control-Gitlab-Red)
+![Custom badge](https://img.shields.io/badge/Version_Control-Git-orange)
+![Custom badge](https://img.shields.io/badge/Version_Control-Github-orange)
+![Custom badge](https://img.shields.io/badge/Version_Control-Bit_Bucket-orange)
+![Custom badge](https://img.shields.io/badge/Version_Control-Gitlab-orange)
 
 Databases
 
-![Custom badge](https://img.shields.io/badge/Databases-MySQL-Red)
-![Custom badge](https://img.shields.io/badge/Databases-Cassandra-Red)
-![Custom badge](https://img.shields.io/badge/Databases-MongoDB-Red)
-![Custom badge](https://img.shields.io/badge/Databases-Postgresql-Red)
+![Custom badge](https://img.shields.io/badge/Databases-MySQL-brown)
+![Custom badge](https://img.shields.io/badge/Databases-Cassandra-brown)
+![Custom badge](https://img.shields.io/badge/Databases-MongoDB-brown)
+![Custom badge](https://img.shields.io/badge/Databases-Postgresql-brown)
