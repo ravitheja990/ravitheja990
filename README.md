@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ravitheja990/ravitheja990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![cover_image](https://user-images.githubusercontent.com/16048288/212347960-81a97fa4-59f4-4450-9e62-971d26c9ce93.jpg)
+
+### Hi there 👋
+
+My name is T Ravi Theja. I am a Senior Software Engineer with a demonstrated history of working in Software Development(both frontend and backend). Skilled in Java, Javascript, Cassandra, MySql, MongoDB, Kafka, Apache Storm and have excellent problem solving skills using Data Structures and Algorithms. Strong engineering professional with a B-Tech specialized in Computer Science and Engineering from Jawaharlal Nehru Technological University, Hyderabad.
+
+
+My Skills:
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="20" role="img" aria-label="Java: Java"><link xmlns="" type="text/css" rel="stylesheet" id="dark-mode-custom-link"/><link xmlns="" type="text/css" rel="stylesheet" id="dark-mode-general-link"/><style xmlns="" lang="en" type="text/css" id="dark-mode-custom-style"/><style xmlns="" lang="en" type="text/css" id="dark-mode-native-style"/><style xmlns="" lang="en" type="text/css" id="dark-mode-native-sheet"/><title>Java: Java</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="70" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="35" height="20" fill="#555"/><rect x="35" width="35" height="20" fill="#4c1"/><rect width="70" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="185" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="250">Java</text><text x="185" y="140" transform="scale(.1)" fill="#fff" textLength="250">Java</text><text aria-hidden="true" x="515" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="250">Java</text><text x="515" y="140" transform="scale(.1)" fill="#fff" textLength="250">Java</text></g></svg>
