@@ -72,5 +72,7 @@ Databases
 
 Connect with me
 
-[![Custom badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/travitheja/)
+[![Custom badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/travitheja)
+[![Custom badge](https://img.shields.io/badge/LinkedIn-Twitter-blue)](https://twitter.com/coderravi)
+[![Custom badge](https://img.shields.io/badge/LinkedIn-Leetcode-blue)](https://leetcode.com/lord_voldemort)
 
