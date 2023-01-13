@@ -21,15 +21,51 @@ My name is T Ravi Theja. I am a Senior Software Engineer with a demonstrated his
 
 My Skills:
 
+Code
+
 ![Custom badge](https://img.shields.io/badge/Code-Java-Red)
 ![Custom badge](https://img.shields.io/badge/Code-Python-Red)
 ![Custom badge](https://img.shields.io/badge/Code-Javascript-Red)
+![Custom badge](https://img.shields.io/badge/Code-Html-Red)
+![Custom badge](https://img.shields.io/badge/Code-Css-Red)
 
-\n
-More Skills
-<details>
-  ![Custom badge](https://img.shields.io/badge/Code-Java-Red)
-  ![Custom badge](https://img.shields.io/badge/Code-Python-Red)
-  ![Custom badge](https://img.shields.io/badge/Code-Javascript-Red)
-</details>
 
+Frameworks
+
+![Custom badge](https://img.shields.io/badge/Frameworks-Spring-Red)
+![Custom badge](https://img.shields.io/badge/Frameworks-Play-Red)
+![Custom badge](https://img.shields.io/badge/Frameworks-Flask-Red)
+![Custom badge](https://img.shields.io/badge/Frameworks-Angular-Red)
+![Custom badge](https://img.shields.io/badge/Frameworks-React-Red)
+
+Big Data
+
+![Custom badge](https://img.shields.io/badge/Big Data-Apache Storm-Red)
+![Custom badge](https://img.shields.io/badge/Big Data-Apache Kafka-Red)
+![Custom badge](https://img.shields.io/badge/Big Data-Elastic Search-Red)
+![Custom badge](https://img.shields.io/badge/Big Data-Kibana-Red)
+
+Virtualization
+
+![Custom badge](https://img.shields.io/badge/Virtualization-Docker-Red)
+![Custom badge](https://img.shields.io/badge/Virtualization-Kubernetes-Red)
+
+Deployment
+
+![Custom badge](https://img.shields.io/badge/Deployment-Jenkins-Red)
+![Custom badge](https://img.shields.io/badge/Deployment-Argo-Red)
+![Custom badge](https://img.shields.io/badge/Deployment-AWS-Red)
+
+Version Control
+
+![Custom badge](https://img.shields.io/badge/Version Control-Git-Red)
+![Custom badge](https://img.shields.io/badge/Version Control-Github-Red)
+![Custom badge](https://img.shields.io/badge/Version Control-Bit Bucket-Red)
+![Custom badge](https://img.shields.io/badge/Version Control-Gitlab-Red)
+
+Databases
+
+![Custom badge](https://img.shields.io/badge/Databases-MySQL-Red)
+![Custom badge](https://img.shields.io/badge/Databases-Cassandra-Red)
+![Custom badge](https://img.shields.io/badge/Databases-MongoDB-Red)
+![Custom badge](https://img.shields.io/badge/Databases-Postgresql-Red)
