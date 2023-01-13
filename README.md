@@ -40,10 +40,10 @@ Frameworks
 
 Big Data
 
-![Custom badge](https://img.shields.io/badge/Big Data-Apache Storm-Red)
-![Custom badge](https://img.shields.io/badge/Big Data-Apache Kafka-Red)
-![Custom badge](https://img.shields.io/badge/Big Data-Elastic Search-Red)
-![Custom badge](https://img.shields.io/badge/Big Data-Kibana-Red)
+![Custom badge](https://img.shields.io/badge/Big_Data-Apache Storm-Red)
+![Custom badge](https://img.shields.io/badge/Big_Data-Apache Kafka-Red)
+![Custom badge](https://img.shields.io/badge/Big_Data-Elastic Search-Red)
+![Custom badge](https://img.shields.io/badge/Big_Data-Kibana-Red)
 
 Virtualization
 
@@ -58,10 +58,10 @@ Deployment
 
 Version Control
 
-![Custom badge](https://img.shields.io/badge/Version Control-Git-Red)
-![Custom badge](https://img.shields.io/badge/Version Control-Github-Red)
-![Custom badge](https://img.shields.io/badge/Version Control-Bit Bucket-Red)
-![Custom badge](https://img.shields.io/badge/Version Control-Gitlab-Red)
+![Custom badge](https://img.shields.io/badge/Version_Control-Git-Red)
+![Custom badge](https://img.shields.io/badge/Version_Control-Github-Red)
+![Custom badge](https://img.shields.io/badge/Version_Control-Bit Bucket-Red)
+![Custom badge](https://img.shields.io/badge/Version_Control-Gitlab-Red)
 
 Databases
 
