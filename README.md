@@ -69,3 +69,8 @@ Databases
 ![Custom badge](https://img.shields.io/badge/Databases-Cassandra-brown)
 ![Custom badge](https://img.shields.io/badge/Databases-MongoDB-brown)
 ![Custom badge](https://img.shields.io/badge/Databases-Postgresql-brown)
+
+Connect with me
+
+![Custom badge](https://img.shields.io/badge/LinkedIn-Profile-blue)(https://www.linkedin.com/in/travitheja/)
+
