@@ -25,3 +25,11 @@ My Skills:
 ![Custom badge](https://img.shields.io/badge/Code-Python-Red)
 ![Custom badge](https://img.shields.io/badge/Code-Javascript-Red)
 
+\n
+More Skills
+<details>
+  ![Custom badge](https://img.shields.io/badge/Code-Java-Red)
+  ![Custom badge](https://img.shields.io/badge/Code-Python-Red)
+  ![Custom badge](https://img.shields.io/badge/Code-Javascript-Red)
+</details>
+
