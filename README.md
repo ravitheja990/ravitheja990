@@ -21,4 +21,7 @@ My name is T Ravi Theja. I am a Senior Software Engineer with a demonstrated his
 
 My Skills:
 
-![Custom badge](https://img.shields.io/badge/Java-Java-Red)
+![Custom badge](https://img.shields.io/badge/Code-Java-green)
+![Custom badge](https://img.shields.io/badge/Code-Python-green)
+![Custom badge](https://img.shields.io/badge/Code-Javascript-green)
+
