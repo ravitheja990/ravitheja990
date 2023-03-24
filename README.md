@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-My name is T Ravi Theja. I am a Senior Software Engineer with a demonstrated history of working in Software Development(both frontend and backend). Skilled in Java, Javascript, Cassandra, MySql, MongoDB, Kafka, Apache Storm and have excellent problem solving skills using Data Structures and Algorithms. Strong engineering professional with a B-Tech specialized in Computer Science and Engineering from Jawaharlal Nehru Technological University, Hyderabad.
+My name is T Ravi Theja. I am a Senior Software Engineer with a demonstrated history of working in Software Development(both frontend and backend). Skilled in Java, Javascript, Python, Cassandra, MySql, MongoDB, Kafka, Apache Storm and have excellent problem solving skills using Data Structures and Algorithms. Strong engineering professional with a B-Tech specialized in Computer Science and Engineering from Jawaharlal Nehru Technological University, Hyderabad.
 
 
 My Skills:
